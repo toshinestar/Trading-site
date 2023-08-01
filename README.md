@@ -27,5 +27,3 @@ MySQL - SQL Database Driver<br>
 jQuery/Javascript - Frontend Scripting<br>
 HTML & CSS<br>
 <br>
-_______________<br>
-<br>
