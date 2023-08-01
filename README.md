@@ -29,8 +29,3 @@ HTML & CSS<br>
 <br>
 _______________<br>
 <br>
-<h3>Credits:</h3><br>
-Vitor Pêgas - Programmer<br>
-Alain Bertrand - Database Class<br>
-<br>
-Special Thanks to Gonçalo Prendi<br>
